@@ -1,0 +1,11 @@
+.dot {
+    display: block;
+    position: absolute;
+
+    height: 1rem;
+    width: 1rem;
+    border-radius: 100%;
+    background-color: black;
+
+    transform: translate(-50%, -50%);
+}
